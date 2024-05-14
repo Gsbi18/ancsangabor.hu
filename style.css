@@ -6,7 +6,7 @@ html{
 }
 .left{
     background-color:transparent;
-    width: 40%;
+    width: 60%;
     font-size: 100%;
 }
 #projektek::before{
@@ -29,6 +29,15 @@ html{
   margin: 0%;
   color: black;
 
+}
+@media only screen and (max-width: 600px) {
+  #header .left {
+   width: 100%;
+   padding: 20px;
+  }
+  #header {
+    padding:20px;
+  }
 }
 .vagjunkBele{
     background-color: lightgray;
@@ -78,3 +87,4 @@ html{
     background-size: cover;
     color: #fefefe;
   }
+
