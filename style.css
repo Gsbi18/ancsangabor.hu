@@ -6,7 +6,7 @@ html{
 }
 .left{
     background-color:transparent;
-    width: 50%;
+    width: 45%;
     font-size: 100%;
 }
 #projektek::before{
@@ -48,10 +48,6 @@ html{
   .card h4,p{
     font-size: small;
   }
-  .cards{
-    padding: 0px;
-    margin: 0px;
-  }
 }
 .vagjunkBele{
     background-color: lightgray;
@@ -82,7 +78,8 @@ html{
     border: 2px solid white;
   }
   .cards{
-    width: 100%;;
+    width: 100%;
+    padding: auto;
   }
   .card img{
     height: 50%;
@@ -101,5 +98,6 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     color: #fefefe;
+    padding: 10px 20px;
   }
 
