@@ -90,7 +90,7 @@ html{
 .checked{
   color: #ffb62e;
 }
-@media only screen and (max-width: 700px), (max-height:400px) {
+@media only screen and (max-width: 700px), (max-height:600px) {
   #header .left {
    width: 100%;
    padding: 20px;
