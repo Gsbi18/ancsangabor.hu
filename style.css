@@ -62,6 +62,9 @@ html{
   background-color: transparent;
   border: 2px solid white;
 }
+.card h4{
+  margin-top: 10px;
+}
 .cards{
   width: 100%;
   padding: auto;
