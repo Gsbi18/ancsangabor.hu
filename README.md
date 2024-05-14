@@ -1,1 +1,1 @@
-Ez a weboldal arra stzolgál hogy gxyakoroljak és hogy bemutassak egy "CV-t" egy kicsit más formában 
+Ez a weboldal arra szolgál hogy gyakoroljak és hogy bemutassak egy "CV-t" egy kicsit más formában 
