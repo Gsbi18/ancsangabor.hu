@@ -4,33 +4,23 @@
 html{
     scroll-snap-type: y mandatory;
 }
-body {
-    background-color: #fefefe; 
-    color: black; 
-
-}
 .left{
-    float: left;
     background-color:transparent;
     width: 40%;
-
+    font-size: 100%;
 }
 #projektek::before{
     transform: scaleY(-1);
 }
 #projektek{
    background-color:black;
-    /*
-    background-image:url(pics/Wallpaper\ for\ MacBook\ |\ desktop\ Wallpaper\ |\ \ Aesthetic\ Minimalist\ Wallpaper.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-   */color: #fefefe;
-margin: 0%;
-padding: 20px;
+  color: #fefefe;
+  margin: 0%;
+  padding: 20px;
 }
 
 #header{
-    display: flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   background-image: url("pics/bg2.jpeg");
@@ -40,15 +30,8 @@ padding: 20px;
   color: black;
 
 }
-#meJpg{
-    height: 100%;
-}
-ul{
-    list-style: none;
-}
-
 .vagjunkBele{
-    background-color: transparent;
+    background-color: lightgray;
     border: black 2px solid;
     text-decoration: none;
     width: 120px;
@@ -56,15 +39,6 @@ ul{
     border-radius: 10px;
     text-decoration: none;
     color: black;
-
-    
-
-}
-.right{
-    float: right;
-    width: 60%;
-    margin-left:30px ;
-    
 }
 .sections{
     height: 100vh;
@@ -81,6 +55,7 @@ ul{
     margin:10px 5px ;
     color: #fefefe;
     background-color: transparent;
+    border: 2px solid white;
   }
   .cards{
     width: 100%;
@@ -95,6 +70,7 @@ ul{
   #nyelvek{
     padding: 20px;
     background-color: black;
+    color: #fefefe;
   }
   #kapcsolatok{
     background-image: url(pics/bg2\ másolat.png);
