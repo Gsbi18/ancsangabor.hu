@@ -27,7 +27,7 @@ html{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("pics/bg2.jpeg");
+  background-image: url("pics/fent.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0%;
@@ -74,6 +74,7 @@ html{
   padding: auto;
   margin-top:50px ;
   margin-right: 0px;
+  margin-left: 0px;
 }
 .card img{
   height: 50%;
@@ -85,7 +86,7 @@ html{
   color: #fefefe;
 }
 #kapcsolatok{
-  background-image: url(pics/bg2_down.png);
+  background-image: url(pics/lent.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fefefe;
